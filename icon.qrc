@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>nicon/ashbin.png</file>
+        <file>nicon/close.png</file>
+        <file>nicon/flow.png</file>
+        <file>nicon/help_filled.png</file>
+        <file>nicon/search.png</file>
+        <file>nicon/setting.png</file>
+        <file>nicon/sub_account.png</file>
+        <file>nicon/user.png</file>
+        <file>nicon/checksearch.png</file>
+        <file>nicon/store.png</file>
+        <file>nicon/count.png</file>
+        <file>nicon/DailyBing-zh-cn-20250519-FHD.jpg</file>
+    </qresource>
+</RCC>

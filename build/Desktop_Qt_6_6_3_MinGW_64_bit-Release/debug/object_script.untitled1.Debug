@@ -1,0 +1,17 @@
+debug/Progresswindow.o
+debug/find.o
+debug/main.o
+debug/mainwindow.o
+debug/parse.o
+debug/pivoter.o
+debug/porter_stemming.o
+debug/recorder.o
+debug/util.o
+debug/qrc_icon.o
+debug/qrc_qmake_qmake_qm_files.o
+debug/moc_Progresswindow.o
+debug/moc_find.o
+debug/moc_mainwindow.o
+debug/moc_parse.o
+debug/moc_recorder.o
+debug/moc_util.o

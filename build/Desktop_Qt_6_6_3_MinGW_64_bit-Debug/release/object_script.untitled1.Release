@@ -1,0 +1,17 @@
+release/Progresswindow.o
+release/find.o
+release/main.o
+release/mainwindow.o
+release/parse.o
+release/pivoter.o
+release/porter_stemming.o
+release/recorder.o
+release/util.o
+release/qrc_icon.o
+release/qrc_qmake_qmake_qm_files.o
+release/moc_Progresswindow.o
+release/moc_find.o
+release/moc_mainwindow.o
+release/moc_parse.o
+release/moc_recorder.o
+release/moc_util.o
